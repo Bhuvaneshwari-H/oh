@@ -7,3 +7,5 @@ public class add{
         System.out.println(sum);
     }
 }
+
+hai
